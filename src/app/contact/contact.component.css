@@ -1,0 +1,8 @@
+p {
+    list-style-type: none;
+    padding: 90;
+    border-style: dashed;
+    border-color: black;
+    font-size: 21px;
+    font-family: monospace;
+}

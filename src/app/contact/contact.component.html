@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<div>
+  <h3>Skills: </h3>
+  <ul>
+    <li *ngFor="let contact of contacts">
+      <p>{{contact.id +1 }}: {{contact.firstName}} {{contact.lastName}}, {{contact.phoneNumber}}, {{contact.email}}</p>
+  </ul>
+</div>
+</html>
