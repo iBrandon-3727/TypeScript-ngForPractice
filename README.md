@@ -26,4 +26,4 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # TypeScript-ngForPractice
-# TypeScript-ngForPractice
+To run the script you will have to run "npm start" if it doesn't work delete the "node_modules" and then run "npm install" and then run "npm start" again and it should work!
